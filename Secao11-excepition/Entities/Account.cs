@@ -42,10 +42,10 @@ namespace Secao11_excepition.Entities
             Balance -= amount;
         }
 
-        /*public override string ToString()
+        public override string ToString()
         {
             return "New balance: " + Balance.ToString("F2", CultureInfo.InvariantCulture);
-        }*/
+        }
 
 
     }
